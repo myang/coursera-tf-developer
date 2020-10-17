@@ -3,4 +3,5 @@
 * Model: 
   * rule1: shape of layer 1 shall match shape of data;
   * rule2: number of neurons of last layer shall match number of classes you are classifying for.
-* use callbacks (array) to end epoch when certain accuracy or loss at certain level.
+* use callbacks (array) to end epoch when certain accuracy or loss reaches certain level.
+* model.flatten() e.g. 12x12 image results in one-dimensional array which has 144 elements.
