@@ -1,4 +1,4 @@
-# intro-tf-coursera
+# TensorFlow Developer Professional Certificate 
 Learning TensorFlow by taking online course "[Introduction to TensorFlow for AI](https://www.coursera.org/learn/introduction-tensorflow)". The goal is to pass the [Google TensorFlow Developer Certificate exame](https://www.tensorflow.org/certificate) after the course.
 
 This is the first partof the [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) course for preparing for the exam. The other 3 courses are:
