@@ -8,3 +8,4 @@
   * seasonality
 * Prediction
   * last value as label
+  * moving average
