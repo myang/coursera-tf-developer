@@ -9,3 +9,5 @@
 * Prediction
   * last value as label
   * moving average
+* RNN
+  * typically to use two SimpleRNN layers: the first one with return = True, the other without.
